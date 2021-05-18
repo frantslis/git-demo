@@ -24,3 +24,8 @@ yeah yeah yeah!
 I change it on feature branch
 
 THis is the conflict verse!
+
+THis is the conflict verse!
+
+this is feature line for conflict
+
