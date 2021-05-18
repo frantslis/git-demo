@@ -19,13 +19,8 @@ verse
 i go go go
 yeah yeah yeah!
 
-<<<<<<< HEAD
-chorus 3
-this is my chorus 3
-i am very glad to learn merging
-it is to learn non-forward merge operation for 'feature' and 'main'
-=======
 
 
 I change it on feature branch
->>>>>>> feature
+
+THis is the conflict verse!
